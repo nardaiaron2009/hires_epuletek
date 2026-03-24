@@ -11,10 +11,28 @@
 .kepfelirat
 {
 	text-align: center;
+	font-weight: bold;
+	
 }
 
 .galeriakep
 {
 	margin: auto;
 	display: block;
+	height: 300px;
+	width: 300px;
+
+}
+body {
+	background-color:#f7eddc ;
+}
+
+.tortenet {
+	font-weight: bold;
+}
+.hivatkozas {
+	font-weight: bold;
+}
+.keret {
+	border: 3px solid #7a5c3e;
 }
